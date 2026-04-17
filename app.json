@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Agenda San Vicente",
+    "slug": "agenda-san-vicente",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.sanvicente.agenda"
+    }
+  }
+}
